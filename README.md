@@ -4,5 +4,5 @@ Library for matrices with attempt of simple interface
 # Contributing 
 
 * Issue tracker <idsbdofficial@gmail.com>
-* Source code [link](https://github.com/efosoner/Buffer_ADB_Wars/blob/master/Buffers/Source.cpp)
-
+* Source code (matrices)[link](https://github.com/efosoner/Matrix_lib/blob/master/Matrix%20library/Matrix.cpp)
+* Source code (interface)[link](https://github.com/efosoner/Matrix_lib/blob/master/Matrix%20library/Source.cpp)
